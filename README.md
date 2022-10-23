@@ -13,7 +13,8 @@ and the documents’ picture.
 **Coverage** 
 
 The metadata of 10145 documents including 
-•** Image of Document :** Pictures of documents in the collection which originally written in Ottoman.
+
+• **Image of Document :** Pictures of documents in the collection which originally written in Ottoman.
 
 • **Summary :** Text that summarizing the event depicted by pictorially available documents. These texts were written by archive professionals. The average number of tokens in these summaries is calculated as 30. 
 
