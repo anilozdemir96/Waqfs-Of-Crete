@@ -11,6 +11,7 @@ Original Archive could be found in [here](https://archives.saltresearch.org/hand
 
 
 **Additional information regarding Crete**
+
 Crete is the largest and most populous of the Greek islands, and the fifth-largest island in the Mediterranean Sea ( see Figure 5.2), after Sicily, Sardinia, Cyprus, and Corsica. It bounds the southern border of the Aegean Sea. Crete rests approximately 160 km south of the Greek mainland. Crete was under Ottoman rule until 1898, and there was an independent Crete State until 1908; later on, Crete became part of Greece. In the 19th century, there were large Muslim and Christian groups with occasional uprisings from both parties Kostopoulou (2016). 
 
 
