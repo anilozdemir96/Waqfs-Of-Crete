@@ -14,8 +14,11 @@ and the documents’ picture.
 
 The metadata of 10145 documents including 
 • Image of Document : Pictures of documents in the collection which originally written in Ottoman. An example document picture can be seen in Figure 5.1. 
+
 • Summary : Text that summarizing the event depicted by pictorially available documents. These texts were written by archive professionals. The average number of tokens in these summaries is calculated as 30. 
+
 • Date : The date the documents were written. Year distribution can be shown in Figure 5.4. 
+
 • Language : The language of the documents is Modern Turkish but most of the words are of Ottoman origin, which is difficult for a normal person to read. 
 
 
