@@ -2,9 +2,9 @@
 
 **Description**
 
-Waqfs of Crete in this repository is a metadata archive which describes official records of Muslim inhabitants of Crete who moved to Turkey during the 1920s due to the population exchange between Turkey and Greece. 
+Waqfs of Crete in this repository is a metadata archive which describes official records of Muslim inhabitants of Crete who moved to Turkey during the 1920s due to the population exchange between Turkey and Greece.  
 
-Original Archive is in could be found in [here](https://archives.saltresearch.org/handle/123456789/496)
+Original Archive could be found in [here](https://archives.saltresearch.org/handle/123456789/496)
 
 Crete is the largest and most populous of the Greek islands, and the fifth-largest island in the Mediterranean Sea ( see Figure 5.2), after Sicily, Sardinia, Cyprus, and Corsica. It bounds the southern border of the Aegean Sea. Crete rests approximately 160 km south of the Greek mainland. Crete was under Ottoman rule until 1898, and there was an independent Crete State until 1908; later on, Crete became part of Greece. In the 19th century, there were large Muslim and Christian groups with occasional uprisings from both parties Kostopoulou (2016). 
 
@@ -18,7 +18,7 @@ Metadata include following information
 
 • **Image of Document :** Pictures of documents in the collection which originally written in Ottoman.
 
-• **Summary :** Text that summarizing the event depicted by pictorially available documents. These texts were written by archive professionals. The average number of tokens in these summaries is calculated as 30. 
+• **Summary :** Text that summarizing the event depicted by pictorially available documents. These texts were written by archive professionals. The average number of tokens in these summaries is calculated as 30. Summaries include Turkish and English translated versions of documents written in different languages (Greek, Ottoman, Italian).
 
 • **Date :** The date the documents were written. Year distribution can be shown in Figure 5.4. 
 
